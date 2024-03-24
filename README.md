@@ -1,4 +1,4 @@
-# **Texas Aerial Robotics (TAR) UAV ROS Packages**
+# **2023-24 Drone Group 2 Texas Aerial Robotics (TAR) UAV ROS Packages**
 
 Editors: Joshua Caratao
 
