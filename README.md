@@ -186,6 +186,8 @@ source ~/catkin_ws/devel/setup.bash
 export ROS_PACKAGE_PATH=$ROS_PACKAGE_PATH:~/PX4-Autopilot
 export ROS_PACKAGE_PATH=$ROS_PACKAGE_PATH:~/PX4-Autopilot/Tools/simulation/gazebo-classic/sitl_gazebo-classic
 export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:/usr/lib/x86_64-linux-gnu/gazebo-9/plugins
+
+source ~/catkin_ws/devel/setup.bashusage: source setup_gazebo.bash src_dir build_dir
 ```
 
 ## 3) Clone and install MAVROS and MAVlink Packages
